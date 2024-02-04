@@ -15,7 +15,7 @@ variable "domain" {
   type = string
 
   # FIXME: ドメイン名を入力
-  default = "techbranch.link"
+  default = "example.com"
 }
 
 module "network" {
